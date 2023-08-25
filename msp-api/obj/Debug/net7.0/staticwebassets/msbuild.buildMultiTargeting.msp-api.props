@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\msp-api.props" />
+</Project>
