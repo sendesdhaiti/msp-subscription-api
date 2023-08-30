@@ -30,6 +30,7 @@ namespace msp_actions.Action_Config
                 .Build();
 #else
                     LOGGING.Logging.Log("CHECKING VARIABLES","DEBUGGER",null, "Production build");
+                    AppSetting = new ConfigurationBuilder()
                         .SetBasePath(Environment.CurrentDirectory)
                         .AddJsonFile("appsettings.json")
                         .Build();
