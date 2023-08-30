@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "l0PUdebUC4Hy/vp0yCuw/j8Py69LOLNKPwhVFfArpEFapINIk/RxeLBOY6/Ur7YpHCIF58NxCBSP5+0/wXeRuQ==",
+  "dgSpecHash": "BZlbBfQqUuuL6mO0zevSDs3s+laUR7Lhr1F84vcapMvViFwlLiIfJ3rzmNfxhEsixoIjneMYbAkX55WbhgGLVg==",
   "success": true,
   "projectFilePath": "C:\\Users\\sdhai\\OneDrive\\Desktop\\msp-subscription\\msp-subscription-api\\msp-api\\msp-api.csproj",
   "expectedPackageFiles": [
@@ -11,7 +11,6 @@
     "C:\\Users\\sdhai\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\sdhai\\.nuget\\packages\\microsoft.aspnetcore.http.extensions\\2.2.0\\microsoft.aspnetcore.http.extensions.2.2.0.nupkg.sha512",
     "C:\\Users\\sdhai\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
-    "C:\\Users\\sdhai\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.4\\microsoft.aspnetcore.openapi.7.0.4.nupkg.sha512",
     "C:\\Users\\sdhai\\.nuget\\packages\\microsoft.aspnetcore.webutilities\\2.2.0\\microsoft.aspnetcore.webutilities.2.2.0.nupkg.sha512",
     "C:\\Users\\sdhai\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\sdhai\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
@@ -32,7 +31,7 @@
     "C:\\Users\\sdhai\\.nuget\\packages\\microsoft.extensions.options\\2.2.0\\microsoft.extensions.options.2.2.0.nupkg.sha512",
     "C:\\Users\\sdhai\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\sdhai\\.nuget\\packages\\microsoft.net.http.headers\\2.2.0\\microsoft.net.http.headers.2.2.0.nupkg.sha512",
-    "C:\\Users\\sdhai\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\sdhai\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\sdhai\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\sdhai\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\sdhai\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
@@ -42,6 +41,7 @@
     "C:\\Users\\sdhai\\.nuget\\packages\\system.componentmodel.annotations\\4.5.0\\system.componentmodel.annotations.4.5.0.nupkg.sha512",
     "C:\\Users\\sdhai\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.5.1\\system.diagnostics.diagnosticsource.4.5.1.nupkg.sha512",
     "C:\\Users\\sdhai\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\sdhai\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\sdhai\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\sdhai\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
   ],
