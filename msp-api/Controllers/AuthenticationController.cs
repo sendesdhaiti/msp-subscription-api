@@ -1,5 +1,7 @@
 ﻿using System;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
+
 [EnableCors("MyAllowCorsPolicy")]
 [ApiController]
 [Route("[controller]")]
