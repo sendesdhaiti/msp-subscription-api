@@ -1,6 +1,6 @@
 ﻿using System;
 using Microsoft.AspNetCore.Mvc;
-
+[EnableCors("MyAllowCorsPolicy")]
 [ApiController]
 [Route("[controller]")]
 public class AuthenticationController: ControllerBase
