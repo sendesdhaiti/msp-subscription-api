@@ -1,0 +1,12 @@
+C:\Users\sdhai\OneDrive\Desktop\msp-subscription\msp-subscription-api\msp-actions\bin\Debug\net6.0\msp-actions.deps.json
+C:\Users\sdhai\OneDrive\Desktop\msp-subscription\msp-subscription-api\msp-actions\bin\Debug\net6.0\msp-actions.dll
+C:\Users\sdhai\OneDrive\Desktop\msp-subscription\msp-subscription-api\msp-actions\bin\Debug\net6.0\msp-actions.pdb
+C:\Users\sdhai\OneDrive\Desktop\msp-subscription\msp-subscription-api\msp-actions\obj\Debug\net6.0\msp-actions.csproj.AssemblyReference.cache
+C:\Users\sdhai\OneDrive\Desktop\msp-subscription\msp-subscription-api\msp-actions\obj\Debug\net6.0\msp-actions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdhai\OneDrive\Desktop\msp-subscription\msp-subscription-api\msp-actions\obj\Debug\net6.0\msp-actions.AssemblyInfoInputs.cache
+C:\Users\sdhai\OneDrive\Desktop\msp-subscription\msp-subscription-api\msp-actions\obj\Debug\net6.0\msp-actions.AssemblyInfo.cs
+C:\Users\sdhai\OneDrive\Desktop\msp-subscription\msp-subscription-api\msp-actions\obj\Debug\net6.0\msp-actions.csproj.CoreCompileInputs.cache
+C:\Users\sdhai\OneDrive\Desktop\msp-subscription\msp-subscription-api\msp-actions\obj\Debug\net6.0\msp-actions.dll
+C:\Users\sdhai\OneDrive\Desktop\msp-subscription\msp-subscription-api\msp-actions\obj\Debug\net6.0\refint\msp-actions.dll
+C:\Users\sdhai\OneDrive\Desktop\msp-subscription\msp-subscription-api\msp-actions\obj\Debug\net6.0\msp-actions.pdb
+C:\Users\sdhai\OneDrive\Desktop\msp-subscription\msp-subscription-api\msp-actions\obj\Debug\net6.0\ref\msp-actions.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KGMNsubZrxUbG/7Jz93wLO4zq2eVmEyq4auwcwVRFsQ=",
+  "Source": "msp-api",
+  "BasePath": "_content/msp-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
