@@ -4,6 +4,75 @@
     "C:\\Users\\sdhai\\OneDrive\\Desktop\\msp-subscription\\msp-subscription-api\\msp-api\\msp-api.csproj": {}
   },
   "projects": {
+    "C:\\Users\\sdhai\\OneDrive\\Desktop\\msp-subscription\\msp-subscription-api\\msp-actions\\msp-actions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sdhai\\OneDrive\\Desktop\\msp-subscription\\msp-subscription-api\\msp-actions\\msp-actions.csproj",
+        "projectName": "msp-actions",
+        "projectPath": "C:\\Users\\sdhai\\OneDrive\\Desktop\\msp-subscription\\msp-subscription-api\\msp-actions\\msp-actions.csproj",
+        "packagesPath": "C:\\Users\\sdhai\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sdhai\\OneDrive\\Desktop\\msp-subscription\\msp-subscription-api\\msp-actions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sdhai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Hosting": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\sdhai\\OneDrive\\Desktop\\msp-subscription\\msp-subscription-api\\msp-api\\msp-api.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -27,7 +96,17 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\sdhai\\OneDrive\\Desktop\\msp-subscription\\msp-subscription-api\\msp-actions\\msp-actions.csproj": {
+                "projectPath": "C:\\Users\\sdhai\\OneDrive\\Desktop\\msp-subscription\\msp-subscription-api\\msp-actions\\msp-actions.csproj"
+              },
+              "C:\\Users\\sdhai\\OneDrive\\Desktop\\msp-subscription\\msp-subscription-api\\msp-logic\\msp-logic.csproj": {
+                "projectPath": "C:\\Users\\sdhai\\OneDrive\\Desktop\\msp-subscription\\msp-subscription-api\\msp-logic\\msp-logic.csproj"
+              },
+              "C:\\Users\\sdhai\\OneDrive\\Desktop\\msp-subscription\\msp-subscription-api\\msp-models\\msp-models.csproj": {
+                "projectPath": "C:\\Users\\sdhai\\OneDrive\\Desktop\\msp-subscription\\msp-subscription-api\\msp-models\\msp-models.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -64,6 +143,127 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sdhai\\OneDrive\\Desktop\\msp-subscription\\msp-subscription-api\\msp-logic\\msp-logic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sdhai\\OneDrive\\Desktop\\msp-subscription\\msp-subscription-api\\msp-logic\\msp-logic.csproj",
+        "projectName": "msp-logic",
+        "projectPath": "C:\\Users\\sdhai\\OneDrive\\Desktop\\msp-subscription\\msp-subscription-api\\msp-logic\\msp-logic.csproj",
+        "packagesPath": "C:\\Users\\sdhai\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sdhai\\OneDrive\\Desktop\\msp-subscription\\msp-subscription-api\\msp-logic\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sdhai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\sdhai\\OneDrive\\Desktop\\msp-subscription\\msp-subscription-api\\msp-actions\\msp-actions.csproj": {
+                "projectPath": "C:\\Users\\sdhai\\OneDrive\\Desktop\\msp-subscription\\msp-subscription-api\\msp-actions\\msp-actions.csproj"
+              },
+              "C:\\Users\\sdhai\\OneDrive\\Desktop\\msp-subscription\\msp-subscription-api\\msp-models\\msp-models.csproj": {
+                "projectPath": "C:\\Users\\sdhai\\OneDrive\\Desktop\\msp-subscription\\msp-subscription-api\\msp-models\\msp-models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sdhai\\OneDrive\\Desktop\\msp-subscription\\msp-subscription-api\\msp-models\\msp-models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sdhai\\OneDrive\\Desktop\\msp-subscription\\msp-subscription-api\\msp-models\\msp-models.csproj",
+        "projectName": "msp-models",
+        "projectPath": "C:\\Users\\sdhai\\OneDrive\\Desktop\\msp-subscription\\msp-subscription-api\\msp-models\\msp-models.csproj",
+        "packagesPath": "C:\\Users\\sdhai\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sdhai\\OneDrive\\Desktop\\msp-subscription\\msp-subscription-api\\msp-models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sdhai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\sdhai\\OneDrive\\Desktop\\msp-subscription\\msp-subscription-api\\msp-actions\\msp-actions.csproj": {
+                "projectPath": "C:\\Users\\sdhai\\OneDrive\\Desktop\\msp-subscription\\msp-subscription-api\\msp-actions\\msp-actions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

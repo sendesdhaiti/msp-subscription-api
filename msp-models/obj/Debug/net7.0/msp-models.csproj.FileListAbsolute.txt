@@ -1,0 +1,15 @@
+C:\Users\sdhai\OneDrive\Desktop\msp-subscription\msp-subscription-api\msp-models\bin\Debug\net7.0\msp-models.deps.json
+C:\Users\sdhai\OneDrive\Desktop\msp-subscription\msp-subscription-api\msp-models\bin\Debug\net7.0\msp-models.dll
+C:\Users\sdhai\OneDrive\Desktop\msp-subscription\msp-subscription-api\msp-models\bin\Debug\net7.0\msp-models.pdb
+C:\Users\sdhai\OneDrive\Desktop\msp-subscription\msp-subscription-api\msp-models\bin\Debug\net7.0\msp-actions.dll
+C:\Users\sdhai\OneDrive\Desktop\msp-subscription\msp-subscription-api\msp-models\bin\Debug\net7.0\msp-actions.pdb
+C:\Users\sdhai\OneDrive\Desktop\msp-subscription\msp-subscription-api\msp-models\obj\Debug\net7.0\msp-models.csproj.AssemblyReference.cache
+C:\Users\sdhai\OneDrive\Desktop\msp-subscription\msp-subscription-api\msp-models\obj\Debug\net7.0\msp-models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdhai\OneDrive\Desktop\msp-subscription\msp-subscription-api\msp-models\obj\Debug\net7.0\msp-models.AssemblyInfoInputs.cache
+C:\Users\sdhai\OneDrive\Desktop\msp-subscription\msp-subscription-api\msp-models\obj\Debug\net7.0\msp-models.AssemblyInfo.cs
+C:\Users\sdhai\OneDrive\Desktop\msp-subscription\msp-subscription-api\msp-models\obj\Debug\net7.0\msp-models.csproj.CoreCompileInputs.cache
+C:\Users\sdhai\OneDrive\Desktop\msp-subscription\msp-subscription-api\msp-models\obj\Debug\net7.0\msp-models.csproj.CopyComplete
+C:\Users\sdhai\OneDrive\Desktop\msp-subscription\msp-subscription-api\msp-models\obj\Debug\net7.0\msp-models.dll
+C:\Users\sdhai\OneDrive\Desktop\msp-subscription\msp-subscription-api\msp-models\obj\Debug\net7.0\refint\msp-models.dll
+C:\Users\sdhai\OneDrive\Desktop\msp-subscription\msp-subscription-api\msp-models\obj\Debug\net7.0\msp-models.pdb
+C:\Users\sdhai\OneDrive\Desktop\msp-subscription\msp-subscription-api\msp-models\obj\Debug\net7.0\ref\msp-models.dll
